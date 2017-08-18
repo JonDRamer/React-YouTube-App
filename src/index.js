@@ -15,7 +15,7 @@ class App extends Component {
       videos: [],
       selectedVideo: null
     };
-    this.videoSearch('dribble2much');
+    this.videoSearch('how to make chemex coffee');
   }
 
   videoSearch(term) {
